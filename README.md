@@ -1,1 +1,1 @@
-# asal-sayi
+python2
